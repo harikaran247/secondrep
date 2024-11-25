@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>confirm box</title>
+</head>
+<body>
+<p id="ans"></p>
+<button onclick="confirm()">click me</button>
+<script>
+function confirm()
+{
+let answer;
+let question=confirm("do you have evening class");
+if(answer==true)
+{
+answer="yes";
+}
+else
+{
+answer="no";
+}
+document.getElementById("ans").innerHTML=answer;
+}
+</script>
+</body>
+</html>

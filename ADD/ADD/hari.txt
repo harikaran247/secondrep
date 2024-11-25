@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<table>
+<tr>
+<th>s.no</th>
+<th>roll no</th>
+<th>name</th>
+<th>team</th>
+</tr>
+<tr>
+<th>1</th>
+<td>1111</td>
+<td>harikaran<td>
+<td>csk</td>
+</tr>
+<tr>
+<th>5</th>
+<td>2222</td>
+<td>sabari</td>
+<td>mi</td>
+</body>
+</html>
